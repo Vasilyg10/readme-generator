@@ -18,7 +18,7 @@
   To install this application you will need to install node.js. You can find this at https://nodejs.org/en/download/. Also you will need to install the inquirer npm package by typing the following in your root folder in the command line 'npm i inquirer'.
 
   ## Usage
-  To use this application clone the repo to your computer and after opening in a code editor type in the command line 'node index.js' and it will prompt you to answer the necessary questions.
+  To use this application clone the repo to your computer and after opening in a code editor type in the command line 'node index.js' and it will prompt you to answer the necessary questions. See this video fur more details on how to use this application: https://drive.google.com/file/d/1NXPf22QIYwTJEIEmZmCcDwgwrLukytLA/view
 
   ## License
   MIT
